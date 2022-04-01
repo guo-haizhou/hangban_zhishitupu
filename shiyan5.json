@@ -1,0 +1,906 @@
+{
+    "links": [
+        {
+            "relation": "属于",
+            "source": "1-红烧肉类",
+            "target": "元宝红烧肉",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "1-红烧肉类",
+            "target": "山楂红烧肉",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "1-红烧肉类",
+            "target": "栗子红烧肉",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "1-红烧肉类",
+            "target": "桂香红烧肉",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "1-红烧肉类",
+            "target": "冻豆腐红烧肉",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "2-红烧排骨类",
+            "target": "红烧排骨",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "2-红烧排骨类",
+            "target": "无酱油版红烧排骨",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "2-红烧排骨类",
+            "target": "秘制红烧排骨",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "2-红烧排骨类",
+            "target": "红烧排骨胡萝卜",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "2-红烧排骨类",
+            "target": "家常红烧排骨",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "3-可乐鸡翅类",
+            "target": "可乐鸡翅",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "3-可乐鸡翅类",
+            "target": "柠檬可乐鸡翅",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "3-可乐鸡翅类",
+            "target": "可乐鸡翅根",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "3-可乐鸡翅类",
+            "target": "改良版可乐鸡翅",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "3-可乐鸡翅类",
+            "target": "无油版可乐鸡翅",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "4-糖醋排骨类",
+            "target": "糖醋排骨",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "4-糖醋排骨类",
+            "target": "广式糖醋排骨",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "4-糖醋排骨类",
+            "target": "橙香糖醋排骨",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "4-糖醋排骨类",
+            "target": "糖醋烤排骨",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "4-糖醋排骨类",
+            "target": "懒人版糖醋排骨",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "5-水煮鱼类",
+            "target": "麻辣水煮鱼",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "5-水煮鱼类",
+            "target": "家常水煮鱼",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "5-水煮鱼类",
+            "target": "小清新版水煮鱼",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "5-水煮鱼类",
+            "target": "水煮鱼",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "5-水煮鱼类",
+            "target": "香辣水煮鱼",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "6-红烧鱼类",
+            "target": "家常红烧鱼",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "6-红烧鱼类",
+            "target": "十分钟红烧鱼",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "6-红烧鱼类",
+            "target": "红烧鱼块",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "6-红烧鱼类",
+            "target": "啤酒红烧鱼",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "6-红烧鱼类",
+            "target": "红烧鱼尾",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "7-凉拌黑木耳类",
+            "target": "爽心木耳沙拉",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "7-凉拌黑木耳类",
+            "target": "凉拌木耳",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "7-凉拌黑木耳类",
+            "target": "凉拌木耳黄瓜",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "7-凉拌黑木耳类",
+            "target": "午餐便当凉拌木耳",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "7-凉拌黑木耳类",
+            "target": "泡椒黑木耳",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "8-鱼香肉丝类",
+            "target": "鱼香肉丝",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "8-鱼香肉丝类",
+            "target": "家庭版鱼香肉丝",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "8-鱼香肉丝类",
+            "target": "素鱼香肉丝",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "8-鱼香肉丝类",
+            "target": "家常版鱼香肉丝",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "8-鱼香肉丝类",
+            "target": "家常鱼香肉丝",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "9-水煮肉片类",
+            "target": "水煮肉片",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "9-水煮肉片类",
+            "target": "私房水煮肉片",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "9-水煮肉片类",
+            "target": "水煮牛肉片",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "9-水煮肉片类",
+            "target": "家常水煮肉片",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "9-水煮肉片类",
+            "target": "麻辣水煮肉片",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "10-意大利面类",
+            "target": "蕃茄火腿意面",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "10-意大利面类",
+            "target": "海鲜意面",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "10-意大利面类",
+            "target": "香椿意面",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "10-意大利面类",
+            "target": "牛油果酱海鲜意面",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "10-意大利面类",
+            "target": "茄汁培根炒意面",
+            "value": 3
+        }
+    ],
+    "nodes": [
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A1",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A2",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A3",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A4",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A5",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A6",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A7",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A8",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A9",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A10",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A11",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A12",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A13",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A14",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A15",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A16",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A17",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A18",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A19",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A20",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A21",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A22",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A23",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A24",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A25",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A26",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A27",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A28",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A29",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A30",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A31",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A32",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A33",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A34",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A35",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A36",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A37",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A38",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A39",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A40",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A41",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A42",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A43",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A44",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A45",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A46",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A47",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A48",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A49",
+            "size":"16"
+        },
+        {
+            "class":"航班号类别",
+            "group":"0",
+            "id":"A50",
+            "size":"16"
+        },
+        {
+        "class":"航空公司类别",
+        "group":"1",
+        "id":"航空公司1",
+        "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司2",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司3",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司4",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司5",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司6",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司7",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司8",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司9",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司10",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司1",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司2",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司3",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司4",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司5",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司6",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司7",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司8",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司9",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司10",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司1",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司2",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司3",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司4",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司5",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司6",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司7",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司8",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司9",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司10",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司1",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司2",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司3",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司4",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司5",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司6",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司7",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司8",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司9",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司10",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司1",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司2",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司3",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司4",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司5",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司6",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司7",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司8",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司9",
+            "size":"10"
+        },
+        {
+            "class":"航空公司类别",
+            "group":"1",
+            "id":"航空公司10",
+            "size":"10"
+        }
+    ]
+}
